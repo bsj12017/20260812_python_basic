@@ -1,0 +1,23 @@
+# 가상 환경
+.venv-python314-old/
+venv/
+.venv/
+
+# 파이썬 캐시 및 컴파일된 파일
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE 및 에디터 설정
+.vscode/
+.idea/
+
+# OS별 생성 파일
+.DS_Store
+Thumbs.db
+
+# 환경 변수 및 로그
+.env
+*.log
+
+thumbs.db
